@@ -102,8 +102,7 @@
 		<from>mrliugangqiang@foxmail.com</from>
 		<password>asikcuvhzerebdec</password>
 		<to>mrliugangqiang@foxmail.com</to>
-		<to>997394672@qq.com</to>
-		<subject>Project abnormal warning</subject>
+		<subject>项目异常预警</subject>
 		<layout class="org.core.logback.html.HTMLLayout">
 			<title>以下是日志详情，请开发人员仔细查找问题</title>
 			<pattern>%d{yyyy-MM-dd HH:mm:ss}%p%t%c%m</pattern>
